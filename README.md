@@ -14,6 +14,7 @@ As because Whatsapp regularly makes an update, so we needs to always **use the l
 - Run `npm run start:dev`
 - Open browser and go to address `http://localhost:8000`
 - Scan the QR Code
+- After scan you can open this link for LIST API `https://www.getpostman.com/collections/291ce7823de9a9a49d09`
 - Enjoy!
 
 ### Send message to group
